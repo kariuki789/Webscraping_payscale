@@ -1,0 +1,828 @@
+,Major,Degree_type,Early Career Pay,Mid Career Pay,% High Meaning,Field Type
+0,Petroleum Engineering,Bachelors,93200.0,187300.0,0.67,STEM
+1,Operations Research & Industrial Engineering,Bachelors,84800.0,170400.0,0.28,STEM
+2,Electrical Engineering & Computer Science (EECS),Bachelors,108500.0,159300.0,0.46,STEM
+3,Interaction Design,Bachelors,68300.0,155800.0,0.55,OTHER FIELDS
+4,Public Accounting,Bachelors,59800.0,147700.0,0.47,BUSINESS
+5,Operations Research,Bachelors,83500.0,147400.0,0.54,OTHER FIELDS
+6,Applied Economics and Management,Bachelors,66100.0,146400.0,0.67,OTHER FIELDS
+7,Business Computing (BC),Bachelors,73000.0,143600.0,0.0,BUSINESS
+8,Actuarial Mathematics,Bachelors,64300.0,143400.0,0.51,STEM
+9,Electrical Power Engineering,Bachelors,76100.0,142600.0,0.68,STEM
+10,Information & Computer Science,Bachelors,58600.0,140900.0,0.62,STEM
+11,Aeronautics & Astronautics,Bachelors,77600.0,139600.0,0.56,OTHER FIELDS
+12,Systems Engineering,Bachelors,77700.0,139200.0,0.53,STEM
+13,Econometrics,Bachelors,64200.0,139000.0,0.35,OTHER FIELDS
+14,Pharmacy,Bachelors,68600.0,138700.0,0.78,OTHER FIELDS
+15,Aerospace Studies,Bachelors,55800.0,136600.0,0.0,OTHER FIELDS
+16,Building Science,Bachelors,53800.0,135900.0,0.53,OTHER FIELDS
+17,Chemical Engineering,Bachelors,76900.0,135900.0,0.55,STEM
+18,Cognitive Science,Bachelors,68700.0,135200.0,0.42,OTHER FIELDS
+19,Actuarial Science,Bachelors,67700.0,134400.0,0.43,OTHER FIELDS
+20,Political Economy,Bachelors,65100.0,133500.0,0.29,OTHER FIELDS
+21,Computer Systems Engineering,Bachelors,79000.0,133200.0,0.51,STEM
+22,Electrical & Computer Engineering (ECE),Bachelors,78100.0,131600.0,0.49,STEM
+23,Computer Science (CS) & Engineering,Bachelors,79400.0,131300.0,0.44,STEM
+24,Marine Engineering,Bachelors,79900.0,131300.0,0.6,STEM
+25,Aeronautical Engineering,Bachelors,74700.0,131100.0,0.66,STEM
+26,Computer Engineering (CE),Bachelors,79000.0,131000.0,0.46,STEM
+27,Naval Architecture & Marine Engineering,Bachelors,74400.0,130700.0,0.49,STEM
+28,Entrepreneurship & Marketing,Bachelors,51400.0,129800.0,0.45,OTHER FIELDS
+29,Corporate Accounting & Finance,Bachelors,65200.0,129700.0,0.55,BUSINESS
+30,Mechatronics,Bachelors,72800.0,129600.0,0.48,OTHER FIELDS
+31,Nuclear Engineering,Bachelors,76400.0,129400.0,0.62,STEM
+32,Electrical Engineering (EE),Bachelors,75600.0,127700.0,0.54,STEM
+33,Foreign Affairs,Bachelors,54800.0,127700.0,0.36,OTHER FIELDS
+34,Marine Transportation Management,Bachelors,71100.0,127500.0,0.0,OTHER FIELDS
+35,Mechanical & Aeronautical Engineering,Bachelors,70900.0,126900.0,0.6,STEM
+36,Welding Engineering,Bachelors,81000.0,126600.0,0.56,STEM
+37,Instrumentation & Control Engineering,Bachelors,73100.0,126400.0,0.0,STEM
+38,Computational & Applied Mathematics,Bachelors,75500.0,126000.0,0.45,STEM
+39,Electrical & Electronics Engineering (EEE),Bachelors,74700.0,125800.0,0.56,STEM
+40,Aerospace Engineering,Bachelors,74300.0,125700.0,0.55,STEM
+41,Astronomy,Bachelors,66600.0,125400.0,0.47,OTHER FIELDS
+42,Optical Science & Engineering,Bachelors,71000.0,125400.0,0.0,STEM
+43,Quantitative Business Analysis,Bachelors,74000.0,125400.0,0.37,BUSINESS
+44,Computer Science (CS) & Mathematics,Bachelors,70500.0,125100.0,0.43,STEM
+45,Industrial & Systems Engineering,Bachelors,73100.0,124800.0,0.48,STEM
+46,Economics and Mathematics,Bachelors,68200.0,124100.0,0.35,STEM
+47,Biomedical Engineering (BME),Bachelors,71300.0,123600.0,0.72,STEM
+48,Managerial Economics,Bachelors,65200.0,123600.0,0.41,OTHER FIELDS
+49,Computer Science (CS),Bachelors,75100.0,123400.0,0.42,STEM
+50,Physics & Astronomy,Bachelors,56500.0,123400.0,0.36,OTHER FIELDS
+51,Petroleum Land Management,Bachelors,59300.0,123100.0,0.0,OTHER FIELDS
+52,Bioscience,Bachelors,49200.0,123100.0,0.0,OTHER FIELDS
+53,Electronics & Communications Engineering,Bachelors,67400.0,122900.0,0.51,STEM
+54,Control Engineering,Bachelors,69700.0,122800.0,0.61,STEM
+55,Pharmacology,Bachelors,57700.0,122700.0,0.0,OTHER FIELDS
+56,Business Analysis,Bachelors,63200.0,122300.0,0.46,BUSINESS
+57,Aeronautical Science & Engineering,Bachelors,56000.0,122200.0,0.5,STEM
+58,Metallurgical Engineering,Bachelors,81800.0,122200.0,0.61,STEM
+59,Engineering Science,Bachelors,67900.0,122100.0,0.45,STEM
+60,Applied Mathematics,Bachelors,68300.0,122000.0,0.4,STEM
+61,Chemical & Biomolecular Engineering,Bachelors,76800.0,121900.0,0.48,STEM
+62,Materials Science,Bachelors,67100.0,121800.0,0.0,OTHER FIELDS
+63,Engineering,Bachelors,69900.0,121700.0,0.59,STEM
+64,Ocean Engineering (OE),Bachelors,69400.0,121400.0,0.51,STEM
+65,Bioengineering (BioE),Bachelors,70900.0,121300.0,0.67,STEM
+66,Aeronautical/Aerospace Engineering Technology,Bachelors,76900.0,121200.0,0.53,STEM
+67,Integrated Science & Technology,Bachelors,65200.0,121100.0,0.56,OTHER FIELDS
+68,Operations Management & Information Systems,Bachelors,66100.0,120900.0,0.38,OTHER FIELDS
+69,Software Engineering,Bachelors,75000.0,120000.0,0.43,STEM
+70,Physics,Bachelors,65900.0,119700.0,0.48,OTHER FIELDS
+71,Quantitative Economics,Bachelors,65000.0,119600.0,0.43,OTHER FIELDS
+72,Computer & Information Science,Bachelors,63600.0,119500.0,0.55,OTHER FIELDS
+73,Geophysics,Bachelors,58000.0,119000.0,0.47,OTHER FIELDS
+74,Accounting & Economics,Bachelors,65900.0,118900.0,0.44,BUSINESS
+75,Physician Assistant Studies,Bachelors,95900.0,118500.0,0.84,OTHER FIELDS
+76,Mining Engineering,Bachelors,78800.0,118300.0,0.64,STEM
+77,Construction Engineering Management,Bachelors,68800.0,118200.0,0.57,STEM
+78,Mechanical Engineering (ME),Bachelors,71000.0,117600.0,0.5,STEM
+79,Materials Science & Engineering,Bachelors,72700.0,117500.0,0.47,STEM
+80,Engineering Mechanics,Bachelors,75500.0,117400.0,0.0,STEM
+81,Industrial Engineering (IE),Bachelors,71900.0,117400.0,0.44,STEM
+82,International Business & Finance,Bachelors,61400.0,117400.0,0.31,BUSINESS
+83,Accounting & Computer Systems,Bachelors,63000.0,117300.0,0.37,BUSINESS
+84,Business & Information Technology (IT),Bachelors,60100.0,116900.0,0.44,BUSINESS
+85,Applied Physics,Bachelors,67300.0,116500.0,0.52,OTHER FIELDS
+86,International Economics,Bachelors,58700.0,116300.0,0.48,OTHER FIELDS
+87,Business & Economics,Bachelors,59600.0,116200.0,0.46,BUSINESS
+88,Ceramic Engineering,Bachelors,69200.0,115700.0,0.0,STEM
+89,Economics,Bachelors,62000.0,115700.0,0.41,OTHER FIELDS
+90,Pharmaceutical Sciences (PS),Bachelors,52800.0,115700.0,0.69,OTHER FIELDS
+91,Telecommunications Engineering,Bachelors,66400.0,115400.0,0.47,STEM
+92,Information & Decision Sciences,Bachelors,65200.0,115200.0,0.33,OTHER FIELDS
+93,Materials Engineering,Bachelors,72300.0,115200.0,0.58,STEM
+94,Paper Science,Bachelors,77000.0,115200.0,0.39,OTHER FIELDS
+95,Asian Studies,Bachelors,47700.0,115100.0,0.41,OTHER FIELDS
+96,Structural Engineering (SE),Bachelors,67800.0,115100.0,0.66,STEM
+97,Industrial Distribution,Bachelors,63600.0,115000.0,0.48,OTHER FIELDS
+98,Management Information Systems (MIS),Bachelors,65000.0,114100.0,0.42,OTHER FIELDS
+99,Electronics Engineering,Bachelors,69600.0,113900.0,0.66,STEM
+100,Finance & Economics,Bachelors,62600.0,113900.0,0.42,OTHER FIELDS
+101,Medical Science,Bachelors,52000.0,113800.0,0.0,OTHER FIELDS
+102,Japanese Studies,Bachelors,51500.0,113800.0,0.21,OTHER FIELDS
+103,Automotive Engineering,Bachelors,67300.0,113800.0,0.48,STEM
+104,Information Management,Bachelors,64300.0,112800.0,0.38,OTHER FIELDS
+105,Management Science,Bachelors,64600.0,112700.0,0.43,OTHER FIELDS
+106,Mechanical,Bachelors,70200.0,112700.0,0.54,OTHER FIELDS
+107,Construction Engineering,Bachelors,67300.0,112500.0,0.59,STEM
+108,Finance & Investments,Bachelors,64100.0,112400.0,0.44,OTHER FIELDS
+109,Mathematics & Statistics,Bachelors,63100.0,112400.0,0.43,STEM
+110,Information Systems Management,Bachelors,59200.0,112300.0,0.49,OTHER FIELDS
+111,Construction Project Management,Bachelors,61100.0,112200.0,0.58,OTHER FIELDS
+112,Engineering Management,Bachelors,69000.0,112200.0,0.57,STEM
+113,Packaging Science,Bachelors,70000.0,112200.0,0.35,OTHER FIELDS
+114,Industrial Engineering & Management,Bachelors,68300.0,112000.0,0.55,STEM
+115,Engineering Physics,Bachelors,70500.0,111800.0,0.5,STEM
+116,Energy Management,Bachelors,72300.0,111700.0,0.71,OTHER FIELDS
+117,Aeronautical Science,Bachelors,57700.0,111600.0,0.57,OTHER FIELDS
+118,Government,Bachelors,55100.0,111200.0,0.47,OTHER FIELDS
+119,Software Applications & Programming,Bachelors,59300.0,110800.0,0.45,OTHER FIELDS
+120,Astrophysics,Bachelors,69300.0,110700.0,0.64,OTHER FIELDS
+121,Bioenvironmental Science,Bachelors,47700.0,110500.0,0.0,OTHER FIELDS
+122,Japanese Language,Bachelors,53300.0,110300.0,0.42,OTHER FIELDS
+123,Business Economics,Bachelors,58400.0,110200.0,0.43,BUSINESS
+124,Finance & Real Estate,Bachelors,63000.0,110200.0,0.44,OTHER FIELDS
+125,Manufacturing Engineering,Bachelors,69300.0,110000.0,0.47,STEM
+126,Atmospheric Science,Bachelors,48700.0,109900.0,0.55,OTHER FIELDS
+127,Cybersecurity,Bachelors,65600.0,109800.0,0.55,OTHER FIELDS
+128,Information Security & Assurance,Bachelors,61400.0,109300.0,0.47,OTHER FIELDS
+129,Medicine,Bachelors,60600.0,109200.0,0.92,OTHER FIELDS
+130,Civil Engineering (CE),Bachelors,65000.0,109000.0,0.65,STEM
+131,Environmental Health & Safety Management,Bachelors,61100.0,108800.0,0.61,OTHER FIELDS
+132,Mathematics,Bachelors,63500.0,108700.0,0.45,STEM
+133,Applied Economics,Bachelors,61400.0,108600.0,0.38,OTHER FIELDS
+134,Construction Science,Bachelors,67400.0,108500.0,0.63,OTHER FIELDS
+135,Political Communication,Bachelors,48800.0,108500.0,0.55,OTHER FIELDS
+136,Marketing & International Business,Bachelors,52500.0,108400.0,0.34,BUSINESS
+137,Software Development,Bachelors,65500.0,108400.0,0.45,OTHER FIELDS
+138,Biochemistry & Molecular Biology,Bachelors,53900.0,108100.0,0.71,OTHER FIELDS
+139,Computing,Bachelors,63500.0,108000.0,0.53,OTHER FIELDS
+140,Construction Management,Bachelors,63200.0,108000.0,0.58,OTHER FIELDS
+141,Accounting & Taxation,Bachelors,55600.0,107800.0,0.41,BUSINESS
+142,Building Construction (BC),Bachelors,67200.0,107800.0,0.52,OTHER FIELDS
+143,International & Comparative Politics,Bachelors,45700.0,107800.0,0.53,OTHER FIELDS
+144,Civil & Environmental Engineering,Bachelors,65300.0,107500.0,0.67,STEM
+145,Business Information Systems,Bachelors,65000.0,107400.0,0.43,BUSINESS
+146,Financial Economics,Bachelors,63300.0,107200.0,0.41,OTHER FIELDS
+147,Sales & Business Marketing,Bachelors,55900.0,107200.0,0.51,BUSINESS
+148,Plastics Engineering,Bachelors,68400.0,107100.0,0.58,STEM
+149,Information Technology Management,Bachelors,63400.0,107000.0,0.48,OTHER FIELDS
+150,Polymer Science & Engineering,Bachelors,74500.0,106900.0,0.0,STEM
+151,Informatics,Bachelors,70300.0,106800.0,0.42,OTHER FIELDS
+152,Computer Management Information Systems (CMIS),Bachelors,55700.0,106600.0,0.47,OTHER FIELDS
+153,Information Systems (IS),Bachelors,63900.0,106600.0,0.44,OTHER FIELDS
+154,Agricultural Economics,Bachelors,55600.0,106300.0,0.58,OTHER FIELDS
+155,Data Processing,Bachelors,65600.0,106200.0,0.45,OTHER FIELDS
+156,European Studies,Bachelors,47500.0,106100.0,0.46,OTHER FIELDS
+157,Biosystems Engineering,Bachelors,64700.0,106000.0,0.74,STEM
+158,Nuclear Engineering Technology (NET),Bachelors,83500.0,106000.0,0.62,STEM
+159,Economics & Political Science,Bachelors,57100.0,105700.0,0.47,OTHER FIELDS
+160,Global & International Studies,Bachelors,50000.0,105700.0,0.46,OTHER FIELDS
+161,Organic Chemistry,Bachelors,44500.0,105600.0,0.0,OTHER FIELDS
+162,Industrial Hygiene,Bachelors,58600.0,105500.0,0.55,OTHER FIELDS
+163,Safety Science,Bachelors,62400.0,105500.0,0.0,OTHER FIELDS
+164,Commerce,Bachelors,66800.0,105400.0,0.4,OTHER FIELDS
+165,Rhetoric,Bachelors,51600.0,105400.0,0.44,OTHER FIELDS
+166,Business Computer Information Systems (BCIS),Bachelors,64000.0,105300.0,0.4,BUSINESS
+167,Finance,Bachelors,60200.0,105200.0,0.42,OTHER FIELDS
+168,Plastics Engineering Technology,Bachelors,66900.0,105100.0,0.28,STEM
+169,Molecular Biology,Bachelors,54100.0,105000.0,0.67,OTHER FIELDS
+170,Environmental Engineering,Bachelors,62600.0,104800.0,0.62,STEM
+171,International Management,Bachelors,54100.0,104800.0,0.51,OTHER FIELDS
+172,Computer Information Systems,Bachelors,59400.0,104700.0,0.42,OTHER FIELDS
+173,Corporate Finance,Bachelors,63600.0,104300.0,0.43,OTHER FIELDS
+174,Genetics,Bachelors,52200.0,104100.0,0.72,OTHER FIELDS
+175,International Business,Bachelors,55300.0,104100.0,0.39,BUSINESS
+176,Agricultural Engineering (AE),Bachelors,63100.0,104000.0,0.63,STEM
+177,Consumer Economics,Bachelors,53700.0,103800.0,0.4,OTHER FIELDS
+178,Finance & Marketing,Bachelors,56800.0,103700.0,0.46,OTHER FIELDS
+179,Computer Information Systems (CIS),Bachelors,60500.0,103500.0,0.47,OTHER FIELDS
+180,Business Finance,Bachelors,57200.0,103300.0,0.42,BUSINESS
+181,Psychobiology,Bachelors,49600.0,103100.0,0.65,OTHER FIELDS
+182,Strategic Management,Bachelors,66200.0,103100.0,0.47,OTHER FIELDS
+183,Construction Trades,Bachelors,61900.0,103100.0,0.48,OTHER FIELDS
+184,Operations Management (OM),Bachelors,61500.0,103000.0,0.45,OTHER FIELDS
+185,Entrepreneurship & Leadership,Bachelors,57100.0,102900.0,0.43,OTHER FIELDS
+186,Electrical Engineering Technology (EET),Bachelors,66300.0,102800.0,0.47,STEM
+187,Computer Science & Information Technology,Bachelors,66000.0,102700.0,0.5,STEM
+188,Food Marketing,Bachelors,56300.0,102700.0,0.24,OTHER FIELDS
+189,International Marketing,Bachelors,59000.0,102600.0,0.22,OTHER FIELDS
+190,Network Engineering,Bachelors,60700.0,102600.0,0.55,STEM
+191,Building Construction Management,Bachelors,61300.0,102400.0,0.63,OTHER FIELDS
+192,Engineering Technology (ET),Bachelors,58400.0,102300.0,0.47,STEM
+193,International Relations,Bachelors,52800.0,102200.0,0.49,OTHER FIELDS
+194,Management & Finance,Bachelors,56800.0,102200.0,0.59,OTHER FIELDS
+195,Information Security,Bachelors,66400.0,102200.0,0.48,OTHER FIELDS
+196,Business Operations,Bachelors,63500.0,102100.0,0.0,BUSINESS
+197,Industrial Management,Bachelors,57800.0,102000.0,0.53,OTHER FIELDS
+198,Architectural Engineering,Bachelors,65000.0,101900.0,0.58,STEM
+199,Hotel Administration,Bachelors,64900.0,101900.0,0.35,OTHER FIELDS
+200,Manufacturing,Bachelors,57600.0,101500.0,0.48,OTHER FIELDS
+201,Agricultural Economics & Business,Bachelors,54900.0,101400.0,0.56,BUSINESS
+202,Web Development,Bachelors,56400.0,101300.0,0.46,OTHER FIELDS
+203,Aviation,Bachelors,54000.0,101200.0,0.48,OTHER FIELDS
+204,Telecommunications Management,Bachelors,55000.0,101200.0,0.42,OTHER FIELDS
+205,Property Management,Bachelors,55200.0,101000.0,0.47,OTHER FIELDS
+206,Comparative Literature,Bachelors,48100.0,100900.0,0.46,OTHER FIELDS
+207,Construction Science & Management,Bachelors,64700.0,100800.0,0.71,OTHER FIELDS
+208,Biotechnology,Bachelors,53100.0,100700.0,0.59,OTHER FIELDS
+209,Industrial & Labor Relations,Bachelors,69800.0,100600.0,0.44,OTHER FIELDS
+210,Real Estate,Bachelors,59900.0,100600.0,0.36,OTHER FIELDS
+211,Mechanical Engineering Technology (MET),Bachelors,64200.0,100400.0,0.48,STEM
+212,Labor Relations,Bachelors,53000.0,100300.0,0.41,OTHER FIELDS
+213,Electronics,Bachelors,57500.0,100200.0,0.63,OTHER FIELDS
+214,Biochemistry (BCH),Bachelors,50400.0,99900.0,0.62,OTHER FIELDS
+215,Politics,Bachelors,53000.0,99900.0,0.51,OTHER FIELDS
+216,Accounting & Auditing,Bachelors,57800.0,99800.0,0.45,BUSINESS
+217,Chinese Language,Bachelors,54200.0,99600.0,0.43,OTHER FIELDS
+218,Information Science (IS),Bachelors,66300.0,99500.0,0.36,OTHER FIELDS
+219,East Asian Studies,Bachelors,49800.0,99400.0,0.42,OTHER FIELDS
+220,Accounting & Finance,Bachelors,59200.0,99300.0,0.45,BUSINESS
+221,Network Security,Bachelors,62300.0,99300.0,0.5,OTHER FIELDS
+222,Information Technology (IT),Bachelors,59100.0,99200.0,0.46,OTHER FIELDS
+223,Aviation Management,Bachelors,50900.0,99100.0,0.58,OTHER FIELDS
+224,Occupational Health and Safety,Bachelors,59900.0,99100.0,0.69,OTHER FIELDS
+225,Agribusiness,Bachelors,50700.0,98900.0,0.53,BUSINESS
+226,Business & Marketing,Bachelors,51000.0,98900.0,0.45,BUSINESS
+227,Computer Engineering Technology (CET),Bachelors,63000.0,98900.0,0.47,STEM
+228,Computer Security,Bachelors,68100.0,98700.0,0.43,OTHER FIELDS
+229,Operations & Supply Chain Management,Bachelors,61300.0,98600.0,0.45,OTHER FIELDS
+230,Entomology,Bachelors,45900.0,98500.0,0.0,OTHER FIELDS
+231,Music Production & Engineering,Bachelors,43100.0,98400.0,0.43,STEM
+232,Industrial Engineering Technology,Bachelors,67200.0,98400.0,0.53,STEM
+233,Logistics & Supply Chain Management,Bachelors,59000.0,98300.0,0.47,OTHER FIELDS
+234,Supply Chain Management,Bachelors,61700.0,98300.0,0.41,OTHER FIELDS
+235,Accounts,Bachelors,59800.0,98300.0,0.44,OTHER FIELDS
+236,Economics & Management,Bachelors,54400.0,98200.0,0.0,OTHER FIELDS
+237,Environmental Policy Analysis & Planning,Bachelors,51000.0,98200.0,0.65,OTHER FIELDS
+238,Physical Therapy,Bachelors,55500.0,98200.0,0.88,OTHER FIELDS
+239,European History,Bachelors,52300.0,98000.0,0.47,OTHER FIELDS
+240,Robotics & Automation,Bachelors,66100.0,98000.0,0.63,OTHER FIELDS
+241,Geological Engineering,Bachelors,61700.0,97900.0,0.54,STEM
+242,Manufacturing Technology,Bachelors,59900.0,97900.0,0.46,OTHER FIELDS
+243,Chemistry,Bachelors,51600.0,97500.0,0.55,OTHER FIELDS
+244,Business Logistics & Transportation,Bachelors,56400.0,97400.0,0.44,BUSINESS
+245,Food Science & Technology,Bachelors,53100.0,97300.0,0.49,OTHER FIELDS
+246,City & Regional Planning,Bachelors,51800.0,97200.0,0.7,OTHER FIELDS
+247,Civil Engineering Technology (CET),Bachelors,58300.0,97200.0,0.6,STEM
+248,Electronics Engineering Technology (EET),Bachelors,64300.0,97100.0,0.5,STEM
+249,English & Psychology,Bachelors,42600.0,97100.0,0.0,OTHER FIELDS
+250,Finance & Banking,Bachelors,55300.0,97100.0,0.47,OTHER FIELDS
+251,Mechanical Design,Bachelors,60900.0,97100.0,0.45,OTHER FIELDS
+252,Applied Technology,Bachelors,55500.0,97000.0,0.62,OTHER FIELDS
+253,Marketing & Management,Bachelors,50000.0,96900.0,0.45,OTHER FIELDS
+254,Technical & Scientific Communication,Bachelors,50700.0,96800.0,0.37,OTHER FIELDS
+255,Financial Planning,Bachelors,54000.0,96600.0,0.63,OTHER FIELDS
+256,Organizational Behavior,Bachelors,57000.0,96600.0,0.51,OTHER FIELDS
+257,Marketing,Bachelors,51700.0,96600.0,0.4,OTHER FIELDS
+258,Dairy Science,Bachelors,51200.0,96200.0,0.68,OTHER FIELDS
+259,Project Management,Bachelors,56800.0,96200.0,0.58,OTHER FIELDS
+260,Government & International Politics (GVIP),Bachelors,51300.0,96100.0,0.49,OTHER FIELDS
+261,Latin American Studies,Bachelors,46700.0,96100.0,0.62,OTHER FIELDS
+262,Industrial Design (ID),Bachelors,55100.0,95900.0,0.41,OTHER FIELDS
+263,Web Design & Development,Bachelors,53100.0,95900.0,0.44,OTHER FIELDS
+264,Computing & Information Systems (CIS),Bachelors,58100.0,95800.0,0.4,OTHER FIELDS
+265,Electromechanical Engineering,Bachelors,70500.0,95800.0,0.55,STEM
+266,Industrial Technology (IT),Bachelors,62200.0,95800.0,0.5,OTHER FIELDS
+267,Information Technology (IT) & Systems,Bachelors,61100.0,95800.0,0.47,OTHER FIELDS
+268,Biopsychology,Bachelors,53300.0,95700.0,0.74,OTHER FIELDS
+269,Government & Politics,Bachelors,52400.0,95700.0,0.51,OTHER FIELDS
+270,Microbiology & Immunology,Bachelors,54900.0,95400.0,0.68,OTHER FIELDS
+271,Chemistry & Environmental Science,Bachelors,48200.0,95400.0,0.0,OTHER FIELDS
+272,Interactive Media Design,Bachelors,54000.0,95300.0,0.38,OTHER FIELDS
+273,Risk Management,Bachelors,58500.0,95300.0,0.42,OTHER FIELDS
+274,Cell Biology,Bachelors,50100.0,95200.0,0.59,OTHER FIELDS
+275,Aeronautics,Bachelors,62800.0,95100.0,0.64,OTHER FIELDS
+276,Welding Engineering Technology,Bachelors,74700.0,95000.0,0.42,STEM
+277,Finance & Management Information Systems,Bachelors,63900.0,94800.0,0.0,OTHER FIELDS
+278,Computer Science (CS) & Business,Bachelors,81100.0,94600.0,0.28,STEM
+279,Environmental Science & Policy,Bachelors,49500.0,94500.0,0.59,OTHER FIELDS
+280,Marketing & Communications,Bachelors,49600.0,94500.0,0.45,OTHER FIELDS
+281,Safety Management,Bachelors,60100.0,94500.0,0.7,OTHER FIELDS
+282,Business Technology Management,Bachelors,57400.0,94400.0,0.42,BUSINESS
+283,Computer Networking Systems,Bachelors,55600.0,94400.0,0.49,OTHER FIELDS
+284,Biomedical Sciences,Bachelors,43600.0,94300.0,0.7,OTHER FIELDS
+285,Philosophy,Bachelors,52600.0,94300.0,0.41,OTHER FIELDS
+286,Sales & Marketing,Bachelors,52700.0,94300.0,0.48,OTHER FIELDS
+287,Manufacturing Engineering Technology,Bachelors,66000.0,94300.0,0.49,STEM
+288,Environmental Health & Safety,Bachelors,57600.0,94200.0,0.68,OTHER FIELDS
+289,Organizational Psychology,Bachelors,51200.0,94100.0,0.5,OTHER FIELDS
+290,Industrial Psychology,Bachelors,50000.0,94000.0,0.5,OTHER FIELDS
+291,Political Science,Bachelors,50700.0,94000.0,0.47,OTHER FIELDS
+292,Real Estate Development,Bachelors,57100.0,94000.0,0.0,OTHER FIELDS
+293,Social Ecology,Bachelors,49000.0,93700.0,0.0,OTHER FIELDS
+294,Risk Management & Insurance,Bachelors,59500.0,93600.0,0.46,OTHER FIELDS
+295,Radiation Therapy,Bachelors,68400.0,93400.0,0.9,OTHER FIELDS
+296,French Literature,Bachelors,46400.0,93300.0,0.5,OTHER FIELDS
+297,Occupational Therapy (OT),Bachelors,54100.0,93300.0,0.88,OTHER FIELDS
+298,Advertising,Bachelors,47200.0,93200.0,0.32,OTHER FIELDS
+299,Accounting,Bachelors,54800.0,93100.0,0.42,BUSINESS
+300,Geology,Bachelors,50400.0,93000.0,0.54,OTHER FIELDS
+301,Strategic Communication,Bachelors,47100.0,93000.0,0.42,OTHER FIELDS
+302,Transportation & Logistics Management,Bachelors,57600.0,93000.0,0.48,OTHER FIELDS
+303,Financial Accounting,Bachelors,56100.0,92900.0,0.51,BUSINESS
+304,Cell & Molecular Biology,Bachelors,51900.0,92800.0,0.68,OTHER FIELDS
+305,Industrial Safety,Bachelors,55200.0,92800.0,0.78,OTHER FIELDS
+306,Insurance,Bachelors,56000.0,92800.0,0.43,OTHER FIELDS
+307,Manufacturing Management,Bachelors,64000.0,92800.0,0.49,OTHER FIELDS
+308,Networks & Telecommunications,Bachelors,54300.0,92800.0,0.56,OTHER FIELDS
+309,Labor Studies,Bachelors,46600.0,92600.0,0.49,OTHER FIELDS
+310,Digital Media Design,Bachelors,46700.0,92600.0,0.31,OTHER FIELDS
+311,Advertising & Marketing Communications,Bachelors,48300.0,92600.0,0.36,OTHER FIELDS
+312,Cinema Studies,Bachelors,47900.0,92500.0,0.33,OTHER FIELDS
+313,Electronic & Computer Technology,Bachelors,63800.0,92500.0,0.58,OTHER FIELDS
+314,Marketing Communication,Bachelors,45700.0,92500.0,0.39,OTHER FIELDS
+315,Construction Technology,Bachelors,59100.0,92400.0,0.0,OTHER FIELDS
+316,Architecture,Bachelors,51000.0,92300.0,0.53,OTHER FIELDS
+317,Applied Statistics,Bachelors,65900.0,92200.0,0.47,STEM
+318,Biological Sciences,Bachelors,49300.0,92100.0,0.66,OTHER FIELDS
+319,Food Science,Bachelors,52500.0,92100.0,0.51,OTHER FIELDS
+320,Urban & Regional Planning,Bachelors,51800.0,92100.0,0.6,OTHER FIELDS
+321,Marketing Management,Bachelors,51300.0,92000.0,0.42,OTHER FIELDS
+322,Computer & Network Administration,Bachelors,56800.0,91900.0,0.47,OTHER FIELDS
+323,Applied Computer Science,Bachelors,66100.0,91800.0,0.44,STEM
+324,Sales,Bachelors,61500.0,91600.0,0.44,OTHER FIELDS
+325,Environmental Design,Bachelors,47700.0,91400.0,0.55,OTHER FIELDS
+326,Hotel Management,Bachelors,49100.0,91400.0,0.44,OTHER FIELDS
+327,Advertising Design,Bachelors,52700.0,91300.0,0.28,OTHER FIELDS
+328,Digital Arts,Bachelors,45600.0,91300.0,0.35,OTHER FIELDS
+329,Financial Management,Bachelors,54300.0,91300.0,0.54,OTHER FIELDS
+330,Electronic Systems Technology (EST),Bachelors,81000.0,91200.0,0.0,OTHER FIELDS
+331,Italian Language,Bachelors,51400.0,91100.0,0.43,OTHER FIELDS
+332,German Studies,Bachelors,50000.0,91000.0,0.42,OTHER FIELDS
+333,Quality Management,Bachelors,57400.0,90800.0,0.6,OTHER FIELDS
+334,Microbiology,Bachelors,48400.0,90300.0,0.68,OTHER FIELDS
+335,Entrepreneurship,Bachelors,54800.0,90300.0,0.47,OTHER FIELDS
+336,Interactive Media,Bachelors,52700.0,90200.0,0.35,OTHER FIELDS
+337,Global Business Management,Bachelors,55900.0,90200.0,0.52,BUSINESS
+338,Network Systems Administration,Bachelors,57900.0,90200.0,0.5,OTHER FIELDS
+339,Police Science,Bachelors,55400.0,90200.0,0.0,OTHER FIELDS
+340,Hydrology,Bachelors,48700.0,90100.0,0.0,OTHER FIELDS
+341,Business Data Analysis,Bachelors,64700.0,90000.0,0.36,BUSINESS
+342,Database Management,Bachelors,65900.0,90000.0,0.0,OTHER FIELDS
+343,Spanish Literature,Bachelors,51100.0,90000.0,0.5,OTHER FIELDS
+344,Business Technology,Bachelors,52800.0,89900.0,0.42,BUSINESS
+345,Business Management & Marketing,Bachelors,48900.0,89800.0,0.48,BUSINESS
+346,Technical Management,Bachelors,64400.0,89700.0,0.62,OTHER FIELDS
+347,Human Biology,Bachelors,51100.0,89600.0,0.7,OTHER FIELDS
+348,Meteorology,Bachelors,46200.0,89500.0,0.57,OTHER FIELDS
+349,Computer Graphics Technology (CGT),Bachelors,49000.0,89200.0,0.4,OTHER FIELDS
+350,Urban Planning,Bachelors,50500.0,89200.0,0.53,OTHER FIELDS
+351,Aviation Technology,Bachelors,58100.0,89100.0,0.49,OTHER FIELDS
+352,Environmental Health,Bachelors,50000.0,89100.0,0.65,OTHER FIELDS
+353,Agricultural Science,Bachelors,48900.0,88900.0,0.59,OTHER FIELDS
+354,Agronomy,Bachelors,50200.0,88900.0,0.65,OTHER FIELDS
+355,International Studies,Bachelors,50000.0,88900.0,0.51,OTHER FIELDS
+356,Design,Bachelors,52800.0,88800.0,0.4,OTHER FIELDS
+357,Applied Science,Bachelors,46400.0,88700.0,0.0,OTHER FIELDS
+358,Architectural Engineering Technology,Bachelors,52200.0,88700.0,0.59,STEM
+359,German Language,Bachelors,50700.0,88700.0,0.41,OTHER FIELDS
+360,Technology,Bachelors,56200.0,88600.0,0.64,OTHER FIELDS
+361,Advertising & Promotion,Bachelors,46100.0,88500.0,0.46,OTHER FIELDS
+362,Pre-law,Bachelors,46800.0,88400.0,0.45,OTHER FIELDS
+363,Digital Media,Bachelors,47300.0,88200.0,0.38,OTHER FIELDS
+364,Biological Anthropology,Bachelors,46200.0,88100.0,0.49,OTHER FIELDS
+365,Personal Financial Planning,Bachelors,53800.0,88100.0,0.6,OTHER FIELDS
+366,Professional Pilot Education,Bachelors,63700.0,88000.0,0.0,OTHER FIELDS
+367,Textile Technology,Bachelors,54000.0,88000.0,0.42,OTHER FIELDS
+368,Web & Digital Media Development,Bachelors,52300.0,88000.0,0.33,OTHER FIELDS
+369,Entrepreneurial Studies,Bachelors,48700.0,87900.0,0.37,OTHER FIELDS
+370,Fashion Design,Bachelors,47500.0,87700.0,0.27,OTHER FIELDS
+371,Retailing,Bachelors,51300.0,87600.0,0.35,OTHER FIELDS
+372,Business Communication,Bachelors,50900.0,87300.0,0.47,BUSINESS
+373,Environmental Science,Bachelors,49100.0,87300.0,0.59,OTHER FIELDS
+374,Product Design Engineering,Bachelors,65500.0,87200.0,0.35,STEM
+375,English Literature,Bachelors,47700.0,87000.0,0.45,OTHER FIELDS
+376,Logistics,Bachelors,57600.0,87000.0,0.41,OTHER FIELDS
+377,Math & Science,Bachelors,55600.0,86900.0,0.66,STEM
+378,International Trade & Business,Bachelors,54800.0,86800.0,0.27,BUSINESS
+379,Pre-Medicine,Bachelors,50800.0,86800.0,0.67,OTHER FIELDS
+380,Speech & Drama,Bachelors,37500.0,86800.0,0.0,OTHER FIELDS
+381,Toxicology,Bachelors,44600.0,86800.0,0.0,OTHER FIELDS
+382,Advertising & Marketing,Bachelors,49000.0,86700.0,0.38,OTHER FIELDS
+383,Geographic Information Systems (GIS) & Spatial Analysis,Bachelors,54000.0,86700.0,0.57,OTHER FIELDS
+384,Marketing & Mass Communications,Bachelors,45400.0,86700.0,0.41,OTHER FIELDS
+385,Welding Technology,Bachelors,48400.0,86700.0,0.0,OTHER FIELDS
+386,General Business,Bachelors,50200.0,86600.0,0.51,BUSINESS
+387,Construction Engineering Technology,Bachelors,55800.0,86400.0,0.53,STEM
+388,Architectural Studies,Bachelors,45400.0,86400.0,0.42,OTHER FIELDS
+389,Aviation Maintenance Technology,Bachelors,51000.0,86300.0,0.6,OTHER FIELDS
+390,Communication Studies & Journalism,Bachelors,44800.0,86200.0,0.47,OTHER FIELDS
+391,Management,Bachelors,51600.0,86200.0,0.48,OTHER FIELDS
+392,General Science,Bachelors,49100.0,86100.0,0.6,OTHER FIELDS
+393,Magazine Journalism,Bachelors,46800.0,86100.0,0.32,OTHER FIELDS
+394,Electronics & Computer Technology,Bachelors,55600.0,86000.0,0.0,OTHER FIELDS
+395,Theatre & Drama Studies,Bachelors,44800.0,86000.0,0.49,OTHER FIELDS
+396,Animation,Bachelors,45000.0,85900.0,0.35,OTHER FIELDS
+397,Biology & Chemistry,Bachelors,49200.0,85900.0,0.66,OTHER FIELDS
+398,Diagnostic Medical Ultrasound,Bachelors,67700.0,85900.0,0.67,OTHER FIELDS
+399,History & Politics,Bachelors,49500.0,85900.0,0.51,OTHER FIELDS
+400,Public Affairs,Bachelors,52700.0,85900.0,0.5,OTHER FIELDS
+401,Romance Languages,Bachelors,53000.0,85900.0,0.53,OTHER FIELDS
+402,Physiology,Bachelors,49300.0,85900.0,0.63,OTHER FIELDS
+403,Corporate Communications,Bachelors,48500.0,85700.0,0.42,OTHER FIELDS
+404,International Affairs,Bachelors,51600.0,85700.0,0.52,OTHER FIELDS
+405,Nursing Science,Bachelors,66800.0,85700.0,0.84,OTHER FIELDS
+406,Organizational Development,Bachelors,53800.0,85700.0,0.54,OTHER FIELDS
+407,Textile & Apparel Studies,Bachelors,47100.0,85700.0,0.3,OTHER FIELDS
+408,Business Administration,Bachelors,52800.0,85600.0,0.5,BUSINESS
+409,Business Administration & Accounting,Bachelors,52400.0,85600.0,0.55,BUSINESS
+410,Philosophy & Religion,Bachelors,43800.0,85600.0,0.55,OTHER FIELDS
+411,Architectural Design,Bachelors,47700.0,85400.0,0.6,OTHER FIELDS
+412,Textile Design,Bachelors,50000.0,85200.0,0.43,OTHER FIELDS
+413,Interpersonal & Organizational Communication,Bachelors,42400.0,85200.0,0.56,OTHER FIELDS
+414,Geographic Information Systems (GIS),Bachelors,50000.0,85100.0,0.52,OTHER FIELDS
+415,Business Management,Bachelors,51700.0,85000.0,0.51,BUSINESS
+416,Linguistics,Bachelors,52100.0,84900.0,0.43,OTHER FIELDS
+417,French Language,Bachelors,49600.0,84800.0,0.47,OTHER FIELDS
+418,Communication,Bachelors,48000.0,84700.0,0.45,OTHER FIELDS
+419,Neuroscience,Bachelors,51800.0,84700.0,0.58,OTHER FIELDS
+420,Business Management & Human Resources Management (HRM),Bachelors,46800.0,84600.0,0.57,BUSINESS
+421,Journalism & Mass Communication,Bachelors,46300.0,84600.0,0.44,OTHER FIELDS
+422,Accounting & Management,Bachelors,55500.0,84500.0,0.52,BUSINESS
+423,Sociology & Organizational Studies,Bachelors,53500.0,84300.0,0.57,OTHER FIELDS
+424,Crop Science,Bachelors,48700.0,84200.0,0.6,OTHER FIELDS
+425,French Studies,Bachelors,52400.0,84200.0,0.57,OTHER FIELDS
+426,Writing,Bachelors,44200.0,84200.0,0.42,OTHER FIELDS
+427,Nursing,Bachelors,65000.0,84200.0,0.83,OTHER FIELDS
+428,History,Bachelors,47800.0,84100.0,0.46,OTHER FIELDS
+429,Biology,Bachelors,47100.0,84000.0,0.65,OTHER FIELDS
+430,Land Surveying,Bachelors,51900.0,84000.0,0.54,OTHER FIELDS
+431,Architectural Technology,Bachelors,46700.0,83900.0,0.61,OTHER FIELDS
+432,Health Care,Bachelors,44400.0,83900.0,0.74,OTHER FIELDS
+433,Integrated Marketing Communications,Bachelors,47000.0,83900.0,0.36,OTHER FIELDS
+434,Agriculture,Bachelors,47700.0,83800.0,0.61,OTHER FIELDS
+435,Digital Design,Bachelors,50000.0,83600.0,0.4,OTHER FIELDS
+436,Marketing & Advertising,Bachelors,49300.0,83600.0,0.44,OTHER FIELDS
+437,Organizational Communication,Bachelors,46400.0,83600.0,0.49,OTHER FIELDS
+438,Visual Effects & Motion Graphics,Bachelors,48100.0,83400.0,0.38,OTHER FIELDS
+439,Public Relations & Communication,Bachelors,45700.0,83300.0,0.47,OTHER FIELDS
+440,General & Strategic Management,Bachelors,51200.0,83300.0,0.55,OTHER FIELDS
+441,Foreign Languages,Bachelors,48400.0,83100.0,0.52,OTHER FIELDS
+442,Retail Merchandising,Bachelors,50900.0,83100.0,0.31,OTHER FIELDS
+443,Agribusiness Management,Bachelors,47700.0,83000.0,0.46,BUSINESS
+444,Global Business,Bachelors,55800.0,83000.0,0.31,BUSINESS
+445,Professional & Technical Writing,Bachelors,48500.0,83000.0,0.44,OTHER FIELDS
+446,Computer Art,Bachelors,40400.0,82900.0,0.31,OTHER FIELDS
+447,Environmental Management,Bachelors,50200.0,82900.0,0.62,OTHER FIELDS
+448,Environmental Studies,Bachelors,48500.0,82900.0,0.59,OTHER FIELDS
+449,Journalism,Bachelors,45900.0,82900.0,0.44,OTHER FIELDS
+450,Travel Industry Management,Bachelors,52600.0,82900.0,0.0,OTHER FIELDS
+451,International Development Studies,Bachelors,47700.0,82800.0,0.64,OTHER FIELDS
+452,Natural Sciences,Bachelors,45100.0,82800.0,0.55,OTHER FIELDS
+453,Retail & Consumer Science,Bachelors,51800.0,82800.0,0.32,OTHER FIELDS
+454,Literature,Bachelors,46800.0,82800.0,0.47,OTHER FIELDS
+455,Bachelor in Science Nursing,Bachelors,64000.0,82700.0,0.81,OTHER FIELDS
+456,History & Political Science,Bachelors,50600.0,82700.0,0.5,OTHER FIELDS
+457,Museum Studies,Bachelors,38900.0,82700.0,0.5,OTHER FIELDS
+458,Computer Information Management,Bachelors,49400.0,82600.0,0.0,OTHER FIELDS
+459,Dental Hygiene,Bachelors,72700.0,82600.0,0.8,OTHER FIELDS
+460,Law,Bachelors,54300.0,82600.0,0.53,OTHER FIELDS
+461,Network Technology,Bachelors,59800.0,82600.0,0.57,OTHER FIELDS
+462,Media Studies,Bachelors,50700.0,82400.0,0.38,OTHER FIELDS
+463,Environmental Geography,Bachelors,50200.0,82300.0,0.52,OTHER FIELDS
+464,Law Enforcement,Bachelors,46700.0,82200.0,0.6,OTHER FIELDS
+465,Nuclear Medicine,Bachelors,60300.0,81900.0,0.81,OTHER FIELDS
+466,Bachelor of Science in Nursing,Bachelors,63800.0,81900.0,0.83,OTHER FIELDS
+467,Computer Animation,Bachelors,46800.0,81800.0,0.36,OTHER FIELDS
+468,Landscape Architecture,Bachelors,51500.0,81800.0,0.65,OTHER FIELDS
+469,Publishing,Bachelors,46300.0,81800.0,0.39,OTHER FIELDS
+470,Interior Architecture,Bachelors,47600.0,81500.0,0.45,OTHER FIELDS
+471,Diagnostic Medical Sonography,Bachelors,64300.0,81400.0,0.86,OTHER FIELDS
+472,Environmental & Natural Resource Economics,Bachelors,52400.0,81400.0,0.65,OTHER FIELDS
+473,Public Relations (PR),Bachelors,45600.0,81400.0,0.42,OTHER FIELDS
+474,Workforce Education & Development,Bachelors,59900.0,81400.0,0.8,OTHER FIELDS
+475,American History (United States),Bachelors,50900.0,81300.0,0.52,OTHER FIELDS
+476,Drama,Bachelors,47400.0,81100.0,0.47,OTHER FIELDS
+477,Management (MGT),Bachelors,47000.0,81000.0,0.62,OTHER FIELDS
+478,Merchandising Management,Bachelors,46800.0,80900.0,0.38,OTHER FIELDS
+479,Environmental Biology,Bachelors,45000.0,80800.0,0.7,OTHER FIELDS
+480,Accounting & Business,Bachelors,52400.0,80700.0,0.48,BUSINESS
+481,Automotive Technology & Service Management,Bachelors,48800.0,80500.0,0.32,OTHER FIELDS
+482,Speech Communication,Bachelors,46700.0,80500.0,0.54,OTHER FIELDS
+483,Allied Health,Bachelors,44800.0,80400.0,0.78,OTHER FIELDS
+484,Agricultural Systems Technology,Bachelors,60500.0,80300.0,0.0,OTHER FIELDS
+485,Emergency Management,Bachelors,50900.0,80300.0,0.8,OTHER FIELDS
+486,Network Administration,Bachelors,48700.0,80300.0,0.56,OTHER FIELDS
+487,Communication Management,Bachelors,46000.0,80200.0,0.38,OTHER FIELDS
+488,Historic Preservation,Bachelors,43400.0,80000.0,0.0,OTHER FIELDS
+489,Broadcast Journalism,Bachelors,42900.0,79900.0,0.5,OTHER FIELDS
+490,Broadcast & Cinematic Arts,Bachelors,42800.0,79900.0,0.43,OTHER FIELDS
+491,Automotive Technology,Bachelors,48100.0,79800.0,0.47,OTHER FIELDS
+492,Business Management & Administration,Bachelors,51400.0,79800.0,0.53,BUSINESS
+493,Agricultural Business,Bachelors,52700.0,79700.0,0.51,BUSINESS
+494,Technology Management,Bachelors,56400.0,79700.0,0.47,OTHER FIELDS
+495,Global Studies,Bachelors,51200.0,79600.0,0.46,OTHER FIELDS
+496,Professional Studies,Bachelors,42800.0,79600.0,0.62,OTHER FIELDS
+497,Interpersonal Communications,Bachelors,45000.0,79500.0,0.53,OTHER FIELDS
+498,Forestry,Bachelors,45900.0,79400.0,0.67,OTHER FIELDS
+499,Homeland Security,Bachelors,49200.0,79400.0,0.72,OTHER FIELDS
+500,Ancient History,Bachelors,46000.0,79300.0,0.0,OTHER FIELDS
+501,Botany,Bachelors,42600.0,79300.0,0.73,OTHER FIELDS
+502,Geography,Bachelors,49700.0,79300.0,0.52,OTHER FIELDS
+503,Computer Aided Design (CAD),Bachelors,48700.0,79200.0,0.0,OTHER FIELDS
+504,Nutrition Science,Bachelors,49500.0,79200.0,0.7,OTHER FIELDS
+505,Acting,Bachelors,44200.0,79100.0,0.5,OTHER FIELDS
+506,Public Management,Bachelors,50200.0,79100.0,0.66,OTHER FIELDS
+507,Nuclear Medicine Technology,Bachelors,61700.0,79000.0,0.82,OTHER FIELDS
+508,Apparel & Textile Manufacture,Bachelors,48300.0,78900.0,0.37,OTHER FIELDS
+509,English Language & Literature,Bachelors,46400.0,78900.0,0.44,OTHER FIELDS
+510,Urban Studies,Bachelors,51500.0,78900.0,0.57,OTHER FIELDS
+511,Mass Communication,Bachelors,44800.0,78800.0,0.44,OTHER FIELDS
+512,Forestry Management,Bachelors,48600.0,78700.0,0.71,OTHER FIELDS
+513,Radio/Television & Film Production,Bachelors,45700.0,78700.0,0.39,OTHER FIELDS
+514,Hospital Management,Bachelors,53200.0,78600.0,0.45,OTHER FIELDS
+515,Human Resources Management (HRM),Bachelors,47900.0,78500.0,0.55,OTHER FIELDS
+516,Marine Science,Bachelors,46100.0,78400.0,0.64,OTHER FIELDS
+517,American Sign Language Interpreting,Bachelors,43100.0,78300.0,0.87,OTHER FIELDS
+518,English & History,Bachelors,45700.0,78300.0,0.49,OTHER FIELDS
+519,English Language,Bachelors,44600.0,78300.0,0.45,OTHER FIELDS
+520,Cytotechnology,Bachelors,61900.0,78200.0,0.89,OTHER FIELDS
+521,Geosciences,Bachelors,48700.0,78200.0,0.62,OTHER FIELDS
+522,Hospital Administration,Bachelors,51200.0,78200.0,0.57,OTHER FIELDS
+523,Film Production,Bachelors,44600.0,78100.0,0.33,OTHER FIELDS
+524,Marine Biology,Bachelors,43300.0,78100.0,0.66,OTHER FIELDS
+525,Zoology,Bachelors,42100.0,77900.0,0.67,OTHER FIELDS
+526,Communication Design,Bachelors,51700.0,77800.0,0.34,OTHER FIELDS
+527,Leadership,Bachelors,47200.0,77500.0,0.57,OTHER FIELDS
+528,Music Technology,Bachelors,44800.0,77500.0,0.39,OTHER FIELDS
+529,Musicology,Bachelors,40000.0,77500.0,0.0,OTHER FIELDS
+530,Technical Writing,Bachelors,53300.0,77500.0,0.42,OTHER FIELDS
+531,Agricultural Communication,Bachelors,44600.0,77400.0,0.52,OTHER FIELDS
+532,Logistics Management,Bachelors,56300.0,77400.0,0.49,OTHER FIELDS
+533,German Language & Literature,Bachelors,49400.0,77300.0,0.47,OTHER FIELDS
+534,Administration,Bachelors,44600.0,77100.0,0.58,OTHER FIELDS
+535,Apparel Merchandising,Bachelors,47600.0,77100.0,0.35,OTHER FIELDS
+536,Computer Aided Drafting & Design (CADD),Bachelors,49100.0,77100.0,0.52,OTHER FIELDS
+537,Organizational Leadership & Supervision,Bachelors,49600.0,77100.0,0.51,OTHER FIELDS
+538,Printing Technology,Bachelors,46200.0,77100.0,0.0,OTHER FIELDS
+539,Spanish Language,Bachelors,47700.0,77100.0,0.51,OTHER FIELDS
+540,Multimedia,Bachelors,44700.0,77000.0,0.45,OTHER FIELDS
+541,Spanish Language Teacher Education,Bachelors,45500.0,76900.0,0.73,OTHER FIELDS
+542,Public Administration,Bachelors,46700.0,76900.0,0.57,OTHER FIELDS
+543,Human Nutrition,Bachelors,48600.0,76900.0,0.85,OTHER FIELDS
+544,Audio Engineering,Bachelors,48300.0,76800.0,0.39,STEM
+545,Graphics Technology & Management,Bachelors,39500.0,76800.0,0.38,OTHER FIELDS
+546,Physical Anthropology,Bachelors,52900.0,76800.0,0.51,OTHER FIELDS
+547,Organizational Leadership,Bachelors,50500.0,76700.0,0.58,OTHER FIELDS
+548,Environmental Health Science,Bachelors,53800.0,76600.0,0.61,OTHER FIELDS
+549,Health Sciences,Bachelors,44600.0,76600.0,0.7,OTHER FIELDS
+550,Journalism & Electronic Media,Bachelors,45200.0,76500.0,0.48,OTHER FIELDS
+551,Religious Studies,Bachelors,43900.0,76300.0,0.55,OTHER FIELDS
+552,Art History,Bachelors,46600.0,76200.0,0.45,OTHER FIELDS
+553,Radiologic Science,Bachelors,57600.0,76200.0,0.81,OTHER FIELDS
+554,3D Animation,Bachelors,51800.0,76000.0,0.42,OTHER FIELDS
+555,Culture Studies,Bachelors,48100.0,75900.0,0.4,OTHER FIELDS
+556,Merchandising,Bachelors,53100.0,75900.0,0.31,OTHER FIELDS
+557,Administrative Management,Bachelors,52700.0,75800.0,0.5,OTHER FIELDS
+558,Human Resources (HR),Bachelors,47300.0,75800.0,0.56,OTHER FIELDS
+559,Liberal Arts,Bachelors,44500.0,75800.0,0.53,OTHER FIELDS
+560,Adult Education & Training,Bachelors,48700.0,75600.0,0.79,OTHER FIELDS
+561,Fashion Merchandising,Bachelors,46900.0,75600.0,0.29,OTHER FIELDS
+562,Health & Fitness,Bachelors,39800.0,75600.0,0.67,OTHER FIELDS
+563,Natural Resources,Bachelors,47400.0,75500.0,0.64,OTHER FIELDS
+564,Organizational Management,Bachelors,48800.0,75500.0,0.57,OTHER FIELDS
+565,Modern Languages,Bachelors,50300.0,75400.0,0.53,OTHER FIELDS
+566,Natural Resource Management,Bachelors,46500.0,75400.0,0.6,OTHER FIELDS
+567,Retail Management,Bachelors,50100.0,75400.0,0.35,OTHER FIELDS
+568,Sociology & Anthropology,Bachelors,44500.0,75400.0,0.5,OTHER FIELDS
+569,Creative Writing,Bachelors,45300.0,75200.0,0.41,OTHER FIELDS
+570,Criminal Justice Administration,Bachelors,45700.0,75100.0,0.56,OTHER FIELDS
+571,Ethnic Studies,Bachelors,47500.0,74900.0,0.63,OTHER FIELDS
+572,Philosophy & Religious Studies,Bachelors,49300.0,74900.0,0.61,OTHER FIELDS
+573,Radiology,Bachelors,54800.0,74900.0,0.8,OTHER FIELDS
+574,Medical Laboratory Technology,Bachelors,56900.0,74400.0,0.82,OTHER FIELDS
+575,Sports Management,Bachelors,45400.0,74400.0,0.43,OTHER FIELDS
+576,Anthropology & English,Bachelors,48000.0,74300.0,0.0,OTHER FIELDS
+577,Broadcast Communication,Bachelors,40000.0,74300.0,0.44,OTHER FIELDS
+578,Criminology,Bachelors,44700.0,74300.0,0.54,OTHER FIELDS
+579,Earth Science,Bachelors,50000.0,74300.0,0.48,OTHER FIELDS
+580,Media & Technology,Bachelors,45200.0,74300.0,0.43,OTHER FIELDS
+581,Visual Communications,Bachelors,45400.0,74300.0,0.38,OTHER FIELDS
+582,Advertising & Graphic Design,Bachelors,46800.0,74200.0,0.37,OTHER FIELDS
+583,Applied Behavior Analysis,Bachelors,38700.0,74200.0,0.81,OTHER FIELDS
+584,Psychology,Bachelors,44700.0,74200.0,0.56,OTHER FIELDS
+585,Applied Management,Bachelors,45500.0,74100.0,0.53,OTHER FIELDS
+586,Hotel & Restaurant Management,Bachelors,47300.0,74100.0,0.48,OTHER FIELDS
+587,Anthropology,Bachelors,46400.0,73900.0,0.46,OTHER FIELDS
+588,Arts Management,Bachelors,39400.0,73800.0,0.48,OTHER FIELDS
+589,Diagnostic Medical Imaging,Bachelors,60600.0,73800.0,0.73,OTHER FIELDS
+590,Communication Arts,Bachelors,42400.0,73600.0,0.39,OTHER FIELDS
+591,Middle Eastern Studies,Bachelors,57100.0,73600.0,0.48,OTHER FIELDS
+592,Radiologic Technology,Bachelors,55200.0,73600.0,0.83,OTHER FIELDS
+593,Painting & Printmaking,Bachelors,34700.0,73600.0,0.41,OTHER FIELDS
+594,Cardiopulmonary Science,Bachelors,48900.0,73400.0,0.9,OTHER FIELDS
+595,Human Relations,Bachelors,45000.0,73400.0,0.63,OTHER FIELDS
+596,Humanities,Bachelors,48500.0,73200.0,0.49,SSH
+597,Health Care Administration,Bachelors,45800.0,73100.0,0.69,OTHER FIELDS
+598,Health Care Management,Bachelors,46700.0,73000.0,0.72,OTHER FIELDS
+599,Life Sciences,Bachelors,53100.0,73000.0,0.64,STEM
+600,Ecology,Bachelors,46400.0,72900.0,0.57,OTHER FIELDS
+601,Media Arts,Bachelors,46500.0,72900.0,0.34,OTHER FIELDS
+602,Respiratory Care,Bachelors,54800.0,72800.0,0.84,OTHER FIELDS
+603,Art & Design,Bachelors,45100.0,72700.0,0.38,OTHER FIELDS
+604,Health Information Management,Bachelors,49000.0,72700.0,0.69,OTHER FIELDS
+605,Hospitality Management,Bachelors,46400.0,72700.0,0.43,OTHER FIELDS
+606,Health Teacher Education,Bachelors,37900.0,72600.0,0.46,OTHER FIELDS
+607,Sports Medicine,Bachelors,50100.0,72600.0,0.77,OTHER FIELDS
+608,Multimedia & Web Design,Bachelors,50200.0,72600.0,0.34,OTHER FIELDS
+609,Sociology,Bachelors,46200.0,72500.0,0.55,OTHER FIELDS
+610,Liberal Studies,Bachelors,44300.0,72400.0,0.56,OTHER FIELDS
+611,Interior Design,Bachelors,45100.0,72300.0,0.5,OTHER FIELDS
+612,Medical Laboratory Science,Bachelors,55600.0,72300.0,0.85,OTHER FIELDS
+613,Secondary Education,Bachelors,44600.0,72300.0,0.59,OTHER FIELDS
+614,Child Psychology,Bachelors,38900.0,72200.0,0.64,OTHER FIELDS
+615,Exercise Physiology,Bachelors,44100.0,72200.0,0.76,OTHER FIELDS
+616,Radiography,Bachelors,55300.0,72200.0,0.85,OTHER FIELDS
+617,Archaeology,Bachelors,45900.0,72100.0,0.46,OTHER FIELDS
+618,Art Administration,Bachelors,40200.0,72100.0,0.56,OTHER FIELDS
+619,Hotel & Restaurant Tourism,Bachelors,44300.0,72100.0,0.49,OTHER FIELDS
+620,Illustration,Bachelors,45200.0,72100.0,0.36,OTHER FIELDS
+621,Arts & Science,Bachelors,45700.0,71900.0,0.0,OTHER FIELDS
+622,Health,Bachelors,44200.0,71900.0,0.73,OTHER FIELDS
+623,Turfgrass Management,Bachelors,53100.0,71900.0,0.51,OTHER FIELDS
+624,Animal Science & Management,Bachelors,44200.0,71800.0,0.55,OTHER FIELDS
+625,SocialStudies,Bachelors,45800.0,71700.0,0.57,OTHER FIELDS
+626,Human Resources Development,Bachelors,48600.0,71600.0,0.5,OTHER FIELDS
+627,Speech Pathology & Audiology,Bachelors,44100.0,71600.0,0.78,OTHER FIELDS
+628,Clinical Laboratory Science,Bachelors,55100.0,71500.0,0.83,OTHER FIELDS
+629,Forensic Science,Bachelors,46000.0,71500.0,0.64,OTHER FIELDS
+630,Health Administration,Bachelors,42700.0,71500.0,0.66,OTHER FIELDS
+631,Geomatics,Bachelors,52300.0,71400.0,0.7,OTHER FIELDS
+632,Media Communication,Bachelors,47000.0,71400.0,0.45,OTHER FIELDS
+633,Health Management,Bachelors,45100.0,71300.0,0.0,OTHER FIELDS
+634,Commercial Photography,Bachelors,43800.0,71300.0,0.23,OTHER FIELDS
+635,Fashion Design & Marketing,Bachelors,45300.0,71100.0,0.44,OTHER FIELDS
+636,Mass Media,Bachelors,40300.0,71100.0,0.49,OTHER FIELDS
+637,Medical Technology,Bachelors,56500.0,71000.0,0.81,OTHER FIELDS
+638,Respiratory Therapy,Bachelors,54500.0,70900.0,0.82,OTHER FIELDS
+639,Theater,Bachelors,44600.0,70700.0,0.5,OTHER FIELDS
+640,Forensic Psychology,Bachelors,43000.0,70600.0,0.54,OTHER FIELDS
+641,Kinesiology,Bachelors,44800.0,70600.0,0.66,OTHER FIELDS
+642,Performing Arts,Bachelors,45700.0,70500.0,0.57,OTHER FIELDS
+643,Psychology & Social Behavior,Bachelors,45800.0,70500.0,0.59,OTHER FIELDS
+644,Religion,Bachelors,44400.0,70500.0,0.59,OTHER FIELDS
+645,Radio & Television,Bachelors,43100.0,70500.0,0.41,OTHER FIELDS
+646,Technology Teacher Education,Bachelors,47700.0,70400.0,0.57,OTHER FIELDS
+647,Educational Studies (ED),Bachelors,40300.0,70200.0,0.65,OTHER FIELDS
+648,Music,Bachelors,44300.0,70200.0,0.55,OTHER FIELDS
+649,Business Leadership,Bachelors,50100.0,70200.0,0.45,BUSINESS
+650,Drafting & Design,Bachelors,51000.0,70100.0,0.69,OTHER FIELDS
+651,Plant Sciences,Bachelors,48000.0,70100.0,0.6,OTHER FIELDS
+652,Criminal Justice,Bachelors,42800.0,69800.0,0.56,OTHER FIELDS
+653,Web Design,Bachelors,49900.0,69800.0,0.25,OTHER FIELDS
+654,Graphic Design,Bachelors,45100.0,69700.0,0.37,OTHER FIELDS
+655,Nutrition,Bachelors,48100.0,69600.0,0.65,OTHER FIELDS
+656,Nutrition & Dietetics,Bachelors,50800.0,69600.0,0.72,OTHER FIELDS
+657,Missions,Bachelors,41300.0,69500.0,0.0,OTHER FIELDS
+658,Dramatic Art,Bachelors,41400.0,69400.0,0.0,OTHER FIELDS
+659,Fashion Marketing & Management,Bachelors,47700.0,69100.0,0.3,OTHER FIELDS
+660,Interdisciplinary Studies (IS),Bachelors,44600.0,68900.0,0.56,OTHER FIELDS
+661,Hospitality & Tourism,Bachelors,44200.0,68800.0,0.41,OTHER FIELDS
+662,Human Ecology,Bachelors,42100.0,68800.0,0.54,OTHER FIELDS
+663,Ornamental Horticulture,Bachelors,46000.0,68800.0,0.69,OTHER FIELDS
+664,Physical Therapist Assistant Studies,Bachelors,49900.0,68800.0,0.85,OTHER FIELDS
+665,Public Health (PH),Bachelors,46000.0,68800.0,0.69,OTHER FIELDS
+666,Art Therapy,Bachelors,41100.0,68600.0,0.8,OTHER FIELDS
+667,Dietetics,Bachelors,51300.0,68600.0,0.74,OTHER FIELDS
+668,Landscape Management,Bachelors,52300.0,68600.0,0.0,OTHER FIELDS
+669,Applied Sociology,Bachelors,42200.0,68500.0,0.57,OTHER FIELDS
+670,Fine Arts,Bachelors,43200.0,68500.0,0.44,OTHER FIELDS
+671,Modern Language Spanish,Bachelors,43800.0,68500.0,0.52,OTHER FIELDS
+672,Women's Studies,Bachelors,45200.0,68500.0,0.59,OTHER FIELDS
+673,Social & Criminal Justice,Bachelors,44800.0,68500.0,0.59,OTHER FIELDS
+674,Animal Science,Bachelors,41200.0,68300.0,0.64,OTHER FIELDS
+675,New Media,Bachelors,46000.0,68300.0,0.33,OTHER FIELDS
+676,Textiles & Clothing,Bachelors,45100.0,68300.0,0.47,OTHER FIELDS
+677,Event Management,Bachelors,41700.0,68200.0,0.4,OTHER FIELDS
+678,Family & Consumer Science,Bachelors,42600.0,68000.0,0.59,OTHER FIELDS
+679,Speech-Language Pathology,Bachelors,44100.0,67900.0,0.7,OTHER FIELDS
+680,Technical Theatre,Bachelors,41000.0,67600.0,0.42,OTHER FIELDS
+681,Education,Bachelors,44100.0,67500.0,0.65,OTHER FIELDS
+682,Foods & Nutrition,Bachelors,47000.0,67500.0,0.68,OTHER FIELDS
+683,Recreation Management,Bachelors,42300.0,67500.0,0.58,OTHER FIELDS
+684,Business & Healthcare Management,Bachelors,46900.0,67300.0,0.69,BUSINESS
+685,Agricultural Teacher Education,Bachelors,53500.0,67100.0,0.0,OTHER FIELDS
+686,Music Composition,Bachelors,44000.0,66900.0,0.51,OTHER FIELDS
+687,Art,Bachelors,43400.0,66700.0,0.46,OTHER FIELDS
+688,Psychology & Sociology,Bachelors,42800.0,66700.0,0.53,OTHER FIELDS
+689,Drawing & Painting,Bachelors,42800.0,66600.0,0.48,OTHER FIELDS
+690,Nonprofit Management,Bachelors,42300.0,66300.0,0.79,OTHER FIELDS
+691,Small Business Management,Bachelors,47100.0,66200.0,0.38,BUSINESS
+692,Behavioral Science,Bachelors,43000.0,66000.0,0.62,OTHER FIELDS
+693,Horticulture & Agronomy,Bachelors,52500.0,65900.0,0.0,OTHER FIELDS
+694,Health Services Administration,Bachelors,42700.0,65800.0,0.63,OTHER FIELDS
+695,Multidisciplinary Studies,Bachelors,41800.0,65800.0,0.53,OTHER FIELDS
+696,Restaurant & Food Service Management,Bachelors,43900.0,65800.0,0.45,OTHER FIELDS
+697,Consumer Affairs,Bachelors,51000.0,65700.0,0.43,OTHER FIELDS
+698,Training and Development,Bachelors,52600.0,65600.0,0.0,OTHER FIELDS
+699,Health & Exercise Science,Bachelors,41700.0,65600.0,0.67,OTHER FIELDS
+700,Electronic Media,Bachelors,45300.0,65600.0,0.37,OTHER FIELDS
+701,Environmental Resource Management,Bachelors,48700.0,65500.0,0.65,OTHER FIELDS
+702,Theatre Arts,Bachelors,43500.0,65300.0,0.51,OTHER FIELDS
+703,Applied Linguistics,Bachelors,46800.0,65200.0,0.44,OTHER FIELDS
+704,African American & African Studies,Bachelors,46400.0,65100.0,0.6,OTHER FIELDS
+705,Exercise & Sports Science,Bachelors,42600.0,65100.0,0.7,OTHER FIELDS
+706,General Studies,Bachelors,43600.0,65100.0,0.52,OTHER FIELDS
+707,Justice Studies,Bachelors,45300.0,65100.0,0.5,OTHER FIELDS
+708,Video Production,Bachelors,42800.0,65100.0,0.33,OTHER FIELDS
+709,Graphic Arts,Bachelors,42700.0,64900.0,0.41,OTHER FIELDS
+710,Physical Education Teaching,Bachelors,42200.0,64900.0,0.69,OTHER FIELDS
+711,Health Services Management,Bachelors,41600.0,64800.0,0.83,OTHER FIELDS
+712,Physical Education & Exercise Science,Bachelors,44100.0,64800.0,0.72,OTHER FIELDS
+713,Drawing,Bachelors,37400.0,64800.0,0.39,OTHER FIELDS
+714,Exercise Science,Bachelors,41400.0,64700.0,0.73,OTHER FIELDS
+715,Printmaking,Bachelors,38400.0,64300.0,0.4,OTHER FIELDS
+716,Sports Administration,Bachelors,43300.0,64300.0,0.47,OTHER FIELDS
+717,Theology,Bachelors,42800.0,64300.0,0.68,OTHER FIELDS
+718,Interior Design & Merchandising,Bachelors,43700.0,64200.0,0.37,OTHER FIELDS
+719,Recreation & Leisure Studies,Bachelors,40300.0,64200.0,0.6,OTHER FIELDS
+720,Human Development,Bachelors,43700.0,64100.0,0.64,OTHER FIELDS
+721,Music Industry,Bachelors,45800.0,64100.0,0.38,OTHER FIELDS
+722,Wildlife Management,Bachelors,39700.0,64100.0,0.49,OTHER FIELDS
+723,Supervision & Management,Bachelors,41700.0,64100.0,0.57,OTHER FIELDS
+724,Health & Wellness,Bachelors,40100.0,64000.0,0.7,OTHER FIELDS
+725,Culinary Arts & Food Service Management,Bachelors,41300.0,64000.0,0.5,OTHER FIELDS
+726,Mortuary Science,Bachelors,43500.0,64000.0,0.85,OTHER FIELDS
+727,Clinical Psychology,Bachelors,43000.0,63900.0,0.65,OTHER FIELDS
+728,Community Health Education,Bachelors,42600.0,63900.0,0.75,OTHER FIELDS
+729,Dance,Bachelors,45100.0,63900.0,0.62,OTHER FIELDS
+730,Speech Pathology,Bachelors,42800.0,63700.0,0.69,OTHER FIELDS
+731,Gender Studies,Bachelors,45500.0,63600.0,0.55,OTHER FIELDS
+732,Secondary English Teacher Education,Bachelors,42000.0,63600.0,0.64,OTHER FIELDS
+733,Photography,Bachelors,43800.0,63500.0,0.38,OTHER FIELDS
+734,English Teacher Education,Bachelors,43300.0,63100.0,0.57,OTHER FIELDS
+735,Paralegal Studies,Bachelors,39600.0,63100.0,0.5,OTHER FIELDS
+736,Social Studies Teacher Education,Bachelors,43400.0,63100.0,0.65,OTHER FIELDS
+737,Teaching English as a Second Language (ESL),Bachelors,42800.0,63000.0,0.73,OTHER FIELDS
+738,Music Teacher Education,Bachelors,42000.0,63000.0,0.62,OTHER FIELDS
+739,Health Promotion,Bachelors,42300.0,62800.0,0.69,OTHER FIELDS
+740,Recording Arts,Bachelors,44800.0,62800.0,0.48,OTHER FIELDS
+741,Photojournalism,Bachelors,41900.0,62600.0,0.59,OTHER FIELDS
+742,Recreation Administration,Bachelors,47000.0,62500.0,0.71,OTHER FIELDS
+743,Radio Broadcasting,Bachelors,46300.0,62400.0,0.33,OTHER FIELDS
+744,Sculpture,Bachelors,40300.0,62200.0,0.47,OTHER FIELDS
+745,Painting,Bachelors,40700.0,62000.0,0.44,OTHER FIELDS
+746,Psychology & Social Sciences,Bachelors,42600.0,62000.0,0.68,SSH
+747,Health & Physical Education Teaching,Bachelors,38700.0,61900.0,0.65,OTHER FIELDS
+748,Organizational Administration,Bachelors,45000.0,61800.0,0.0,OTHER FIELDS
+749,Tourism Management,Bachelors,43100.0,61600.0,0.38,OTHER FIELDS
+750,Instrumental Music Teacher Education,Bachelors,41700.0,61600.0,0.65,OTHER FIELDS
+751,Emergency Medical Services (EMS),Bachelors,44200.0,61400.0,0.0,OTHER FIELDS
+752,Community Health,Bachelors,45400.0,61300.0,0.72,OTHER FIELDS
+753,Health & Human Performance,Bachelors,38100.0,61100.0,0.68,OTHER FIELDS
+754,Music Therapy,Bachelors,43100.0,60700.0,0.93,OTHER FIELDS
+755,Social Services,Bachelors,39900.0,60500.0,0.82,OTHER FIELDS
+756,Rehabilitation Services,Bachelors,35800.0,60200.0,0.79,OTHER FIELDS
+757,Horticulture,Bachelors,43000.0,60100.0,0.59,OTHER FIELDS
+758,University Studies,Bachelors,42400.0,60000.0,0.49,OTHER FIELDS
+759,Church Ministries,Bachelors,40000.0,59900.0,0.79,OTHER FIELDS
+760,Communicative Disorders,Bachelors,47400.0,59800.0,0.73,OTHER FIELDS
+761,Social Science Teacher Education,Bachelors,45400.0,59800.0,0.0,OTHER FIELDS
+762,Wildlife Biology,Bachelors,42900.0,59800.0,0.6,OTHER FIELDS
+763,Community Development,Bachelors,44600.0,59400.0,0.63,OTHER FIELDS
+764,Psychology & Human Services,Bachelors,35600.0,59400.0,0.0,OTHER FIELDS
+765,Athletic Training,Bachelors,42100.0,59300.0,0.75,OTHER FIELDS
+766,Biblical Studies,Bachelors,40500.0,59000.0,0.72,OTHER FIELDS
+767,Biblical Studies & Practical Ministries,Bachelors,36400.0,58900.0,0.76,OTHER FIELDS
+768,Counseling Psychology,Bachelors,42700.0,58900.0,0.64,OTHER FIELDS
+769,Recreational Studies,Bachelors,42100.0,58900.0,0.69,OTHER FIELDS
+770,Teaching,Bachelors,42000.0,58900.0,0.72,OTHER FIELDS
+771,Home Economics,Bachelors,41800.0,58700.0,0.69,OTHER FIELDS
+772,Library & Information Science,Bachelors,48200.0,58700.0,0.48,OTHER FIELDS
+773,Human Development & Family Studies,Bachelors,40300.0,58600.0,0.66,OTHER FIELDS
+774,Tourism & Travel,Bachelors,42200.0,58600.0,0.43,OTHER FIELDS
+775,Landscape Design,Bachelors,49000.0,58500.0,0.63,OTHER FIELDS
+776,Ceramics,Bachelors,42200.0,58300.0,0.51,OTHER FIELDS
+777,Clinical Social Work (CSW),Bachelors,43500.0,58300.0,0.0,OTHER FIELDS
+778,Parks & Recreation Management,Bachelors,42700.0,58300.0,0.56,OTHER FIELDS
+779,Pastoral Ministry,Bachelors,38700.0,58000.0,0.83,OTHER FIELDS
+780,Vocal Performance,Bachelors,42600.0,58000.0,0.65,OTHER FIELDS
+781,Art Teacher Education,Bachelors,40300.0,57500.0,0.62,OTHER FIELDS
+782,Bible Studies & Theology,Bachelors,40000.0,57500.0,0.67,OTHER FIELDS
+783,Forensic Accounting,Bachelors,48300.0,57200.0,0.48,BUSINESS
+784,Communication Sciences & Disorders,Bachelors,43300.0,57100.0,0.76,OTHER FIELDS
+785,Legal Assistant Studies,Bachelors,38100.0,57100.0,0.38,OTHER FIELDS
+786,Special Education,Bachelors,41300.0,57000.0,0.76,OTHER FIELDS
+787,Conservation Biology,Bachelors,42800.0,56900.0,0.57,OTHER FIELDS
+788,Family Studies,Bachelors,39200.0,56800.0,0.68,OTHER FIELDS
+789,Christian Ministry,Bachelors,38100.0,56400.0,0.79,OTHER FIELDS
+790,Speech & Hearing,Bachelors,43300.0,56400.0,0.76,OTHER FIELDS
+791,Health and Human Services,Bachelors,43500.0,56300.0,0.65,OTHER FIELDS
+792,Musical Theatre,Bachelors,43500.0,56100.0,0.5,OTHER FIELDS
+793,History Teacher Education,Bachelors,47700.0,55600.0,0.46,OTHER FIELDS
+794,Developmental Psychology,Bachelors,38200.0,55000.0,0.0,OTHER FIELDS
+795,Therapeutic Recreation,Bachelors,39500.0,54900.0,0.82,OTHER FIELDS
+796,Applied Behavioral Science,Bachelors,40500.0,54600.0,0.5,OTHER FIELDS
+797,Community & Human Services,Bachelors,42400.0,54600.0,0.8,OTHER FIELDS
+798,Social Work (SW),Bachelors,38600.0,54600.0,0.76,OTHER FIELDS
+799,Office Administration,Bachelors,38700.0,54500.0,0.65,OTHER FIELDS
+800,Ministry,Bachelors,36700.0,54300.0,0.81,OTHER FIELDS
+801,Family & Community Services,Bachelors,42200.0,54300.0,0.74,OTHER FIELDS
+802,Youth Ministry,Bachelors,37400.0,54200.0,0.76,OTHER FIELDS
+803,Elementary Education,Bachelors,40000.0,53800.0,0.69,OTHER FIELDS
+804,Voice & Opera,Bachelors,34500.0,53300.0,0.57,OTHER FIELDS
+805,Christian Education,Bachelors,38700.0,53200.0,0.82,OTHER FIELDS
+806,Conflict Resolution,Bachelors,44400.0,53200.0,0.5,OTHER FIELDS
+807,Baking & Pastry Arts,Bachelors,37500.0,53000.0,0.44,OTHER FIELDS
+808,Human Services Management,Bachelors,45600.0,53000.0,0.0,OTHER FIELDS
+809,Hospitality & The Culinary Arts,Bachelors,38800.0,52900.0,0.0,OTHER FIELDS
+810,Human Services (HS),Bachelors,38700.0,52500.0,0.71,OTHER FIELDS
+811,Counseling,Bachelors,39900.0,51700.0,0.78,OTHER FIELDS
+812,Recreational Therapy,Bachelors,38400.0,51600.0,0.84,OTHER FIELDS
+813,Child Development,Bachelors,37400.0,51400.0,0.73,OTHER FIELDS
+814,Educational Psychology,Bachelors,36900.0,51200.0,0.0,OTHER FIELDS
+815,Middle School Education,Bachelors,41200.0,50800.0,0.73,OTHER FIELDS
+816,Mental Health Counseling,Bachelors,36100.0,50000.0,0.78,OTHER FIELDS
+817,Early Childhood & Elementary Education,Bachelors,38000.0,48400.0,0.77,OTHER FIELDS
+818,Equine Studies,Bachelors,35700.0,47100.0,0.5,OTHER FIELDS
+819,Addiction Studies,Bachelors,38000.0,47000.0,0.84,OTHER FIELDS
+820,Child & Family Studies,Bachelors,36400.0,46500.0,0.73,OTHER FIELDS
+821,Rehabilitation Counseling,Bachelors,39200.0,46400.0,0.0,OTHER FIELDS
+822,Outdoor Education,Bachelors,37400.0,46300.0,0.52,OTHER FIELDS
+823,Early Childhood Education,Bachelors,36100.0,45400.0,0.78,OTHER FIELDS
+824,Mental Health,Bachelors,36900.0,45000.0,0.0,OTHER FIELDS
+825,Medical Assisting,Bachelors,36000.0,44800.0,0.0,OTHER FIELDS
+826,Metalsmithing,Bachelors,40000.0,40300.0,0.33,OTHER FIELDS
